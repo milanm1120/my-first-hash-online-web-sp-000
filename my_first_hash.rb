@@ -28,7 +28,7 @@ def retrieval
 
 end
 
-return retrieval["oil paintings"]
+retrieval["oil paintings"]
 
 
 def adding
